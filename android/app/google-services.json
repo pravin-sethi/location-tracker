@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "48805676462",
+    "project_id": "locationtracker-de500",
+    "storage_bucket": "locationtracker-de500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48805676462:android:d4682625ee187c1996f43f",
+        "android_client_info": {
+          "package_name": "com.pssloth05.location_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48805676462-8dakep2aoi9geh42jcltnkcnk8t5r0h1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pssloth05.location_tracker",
+            "certificate_hash": "SHA1"
+          }
+        },
+        {
+          "client_id": "48805676462-s06mpgh6vgriiqacbg4q1610b89bd1uu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "API_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48805676462-s06mpgh6vgriiqacbg4q1610b89bd1uu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
